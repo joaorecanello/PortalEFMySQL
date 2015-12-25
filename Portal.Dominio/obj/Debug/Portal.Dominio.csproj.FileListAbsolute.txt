@@ -1,0 +1,5 @@
+D:\Websites\PMCP\PortalPrefeitura\Portal.Dominio\bin\Debug\Portal.Dominio.dll
+D:\Websites\PMCP\PortalPrefeitura\Portal.Dominio\bin\Debug\Portal.Dominio.pdb
+D:\Websites\PMCP\PortalPrefeitura\Portal.Dominio\obj\Debug\Portal.Dominio.dll
+D:\Websites\PMCP\PortalPrefeitura\Portal.Dominio\obj\Debug\Portal.Dominio.pdb
+D:\Websites\PMCP\PortalPrefeitura\Portal.Dominio\obj\Debug\Portal.Dominio.csprojResolveAssemblyReference.cache

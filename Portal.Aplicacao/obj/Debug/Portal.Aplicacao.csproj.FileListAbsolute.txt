@@ -1,0 +1,13 @@
+D:\Websites\PMCP\PortalPrefeitura\Portal.Aplicacao\bin\Debug\Portal.Aplicacao.dll
+D:\Websites\PMCP\PortalPrefeitura\Portal.Aplicacao\bin\Debug\Portal.Aplicacao.pdb
+D:\Websites\PMCP\PortalPrefeitura\Portal.Aplicacao\bin\Debug\Portal.Dominio.dll
+D:\Websites\PMCP\PortalPrefeitura\Portal.Aplicacao\bin\Debug\Portal.Dominio.pdb
+D:\Websites\PMCP\PortalPrefeitura\Portal.Aplicacao\obj\Debug\Portal.Aplicacao.csprojResolveAssemblyReference.cache
+D:\Websites\PMCP\PortalPrefeitura\Portal.Aplicacao\obj\Debug\Portal.Aplicacao.dll
+D:\Websites\PMCP\PortalPrefeitura\Portal.Aplicacao\obj\Debug\Portal.Aplicacao.pdb
+D:\Websites\PMCP\PortalPrefeitura\Portal.Aplicacao\bin\Debug\Portal.Repositorio.dll
+D:\Websites\PMCP\PortalPrefeitura\Portal.Aplicacao\bin\Debug\EntityFramework.dll
+D:\Websites\PMCP\PortalPrefeitura\Portal.Aplicacao\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Websites\PMCP\PortalPrefeitura\Portal.Aplicacao\bin\Debug\MySql.Data.dll
+D:\Websites\PMCP\PortalPrefeitura\Portal.Aplicacao\bin\Debug\Portal.Repositorio.pdb
+D:\Websites\PMCP\PortalPrefeitura\Portal.Aplicacao\bin\Debug\EntityFramework.xml

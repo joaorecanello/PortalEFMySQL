@@ -1,0 +1,14 @@
+D:\Websites\PMCP\PortalPrefeitura\Portal.Repositorio\bin\Debug\Portal.Repositorio.dll.config
+D:\Websites\PMCP\PortalPrefeitura\Portal.Repositorio\bin\Debug\Portal.Repositorio.dll
+D:\Websites\PMCP\PortalPrefeitura\Portal.Repositorio\bin\Debug\Portal.Repositorio.pdb
+D:\Websites\PMCP\PortalPrefeitura\Portal.Repositorio\bin\Debug\EntityFramework.dll
+D:\Websites\PMCP\PortalPrefeitura\Portal.Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Websites\PMCP\PortalPrefeitura\Portal.Repositorio\bin\Debug\MySql.Data.dll
+D:\Websites\PMCP\PortalPrefeitura\Portal.Repositorio\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Websites\PMCP\PortalPrefeitura\Portal.Repositorio\bin\Debug\Portal.Dominio.dll
+D:\Websites\PMCP\PortalPrefeitura\Portal.Repositorio\bin\Debug\Portal.Dominio.pdb
+D:\Websites\PMCP\PortalPrefeitura\Portal.Repositorio\bin\Debug\EntityFramework.xml
+D:\Websites\PMCP\PortalPrefeitura\Portal.Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Websites\PMCP\PortalPrefeitura\Portal.Repositorio\obj\Debug\Portal.Repositorio.csprojResolveAssemblyReference.cache
+D:\Websites\PMCP\PortalPrefeitura\Portal.Repositorio\obj\Debug\Portal.Repositorio.dll
+D:\Websites\PMCP\PortalPrefeitura\Portal.Repositorio\obj\Debug\Portal.Repositorio.pdb

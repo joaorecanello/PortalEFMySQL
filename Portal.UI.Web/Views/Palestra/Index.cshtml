@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Portal.Dominio.Palestrante>
+
+@{
+    ViewBag.Title = "Cadastrar Palestra";
+}
+
+<h2>Cadastrar Palestra</h2>
+
+<p>
+    @Html.ActionLink("Novo", "Cadastrar")
+</p>
+<table class="table">
+    <tr>
+        
+        <th>
+            @Html.DisplayNameFor(model => model.Tema)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Instituicao)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Dia)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Horario)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        
+        <td>
+            @Html.DisplayFor(modelItem => item.Tema)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Instituicao)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Dia)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Horario)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Editar", new { id=item.PalestranteId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.PalestranteId }) |
+            @Html.ActionLink("Excluir", "Excluir", new { id=item.PalestranteId })
+        </td>
+    </tr>
+}
+
+</table>
